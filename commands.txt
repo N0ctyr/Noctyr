@@ -1,3 +1,0 @@
-grep -i "failed password" /var/log/auth.log
-grep -i "failedpassword" ~/huntops/security/auth.log | awk '{ if($(9)=="invalid") print $(11); else print $(9) }' | sort | uniq -c | sort -rn
-cat /huntops/security/report.txt
