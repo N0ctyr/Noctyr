@@ -4,39 +4,34 @@ Hands-on labs in security and threat analysis
 > "Hunt. Analyze. Report."
 
 
-
-██████╗  ██████╗  ██████╗████████╗██╗██╗   ██╗██████╗
-██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██║██║   ██║██╔══██╗ ██████╔╝██║   ██║██║        ██║   ██║██║   ██║██████╔╝ ██╔═══╝ ██║   ██║██║        ██║   ██║██║   ██║██╔══██╗ ██║     ╚██████╔╝╚██████╗   ██║   ██║╚██████╔╝██████╔╝ ╚═╝      ╚═════╝  ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═════╝
-[ NOCTYR PROJECT ]
-
-🎯 **Focus:**  
-Offensive Security · Threat Hunting · Linux Log Forensics  
-
-🎥 **Demo Video:**  
-Watch here → [https://youtu.be/L3FZNRTjpn0](https://youtu.be/L3FZNRTjpn0)
+# 🧠 Noctyr Labs Security • Threat Analysis • Research Welcome to my personal cybersecurity lab — a space for hands-on experiments in **Linux security**, **log forensics**, and **penetration testing**. Every lab here is based on real scenarios, analyzed, and documented for learning and improvement.
 
 ---
 
-### 🔍 Recent Labs  
-- SSH brute-force log investigation  
-- Failed login analysis (`auth.log`)  
-- IP aggregation & CSV reporting  
-- Recon and scanning with `nmap`  
+## 📂 Repository Structure 
+
+Noctyr-Labs/ ├── main.py → Example automation or analysis script
+├── labs/ → Individual lab environments
+│ ├── commands.txt → Commands used during investigation
+│ ├── report.txt → Detailed findings
+│ └── summary.md → Quick overview of the lab
+└── README.md → This file
 
 ---
 
-### ⚙️ Skills  
-`Linux` · `Bash` · `Network Recon` · `Log Forensics` · `Incident Response`  
+## ⚙️ Purpose
+- Strengthen Linux and network security fundamentals - Practice threat detection and incident response - Build a personal portfolio of ethical hacking labs
 
 ---
 
-### 🧾 Contact  
-📧 **noctyr.sec@gmail.com**
+## 🧩 Notes
+All work is done in **isolated environments** for **educational purposes only**. No real systems or unauthorized testing involved.
 
 ---
 
-🕶️ *Stay low. Hunt smart. Leave no trace.*
-
+## 📡 Connect
+- **GitHub:** [@Noctyr](https://github.com/Noctyr) - **YouTube:** [Noctyr Labs](https://youtube.com/@noctyrsecurity)
 
 ---
 
+🩵 *“Stay curious, stay ethical.”*
