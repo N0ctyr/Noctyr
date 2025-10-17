@@ -12,6 +12,9 @@ Hands-on labs in security and threat analysis
 🎯 **Focus:**  
 Offensive Security · Threat Hunting · Linux Log Forensics  
 
+🎥 **Demo Video:**  
+Watch here → [https://youtu.be/L3FZNRTjpn0](https://youtu.be/L3FZNRTjpn0)
+
 ---
 
 ### 🔍 Recent Labs  
