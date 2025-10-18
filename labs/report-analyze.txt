@@ -1,0 +1,14 @@
+Security Report - Sat 18 Oct 19:54:21 +0330 2025
+---
+Top IPs:
+      3 192.168.1.23
+      1 172.16.0.45
+      1 10.0.0.55
+
+Top Users:
+      2 alice
+      1 root
+      1 bob
+      1 admin
+
+Suspicious IPs (threshold >= 5 attempts):
